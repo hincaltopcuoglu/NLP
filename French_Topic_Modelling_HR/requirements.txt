@@ -1,8 +1,0 @@
-pandas
-numpy
-re
-unidecode
-sklearn
-lda
-argparse
-bokeh
